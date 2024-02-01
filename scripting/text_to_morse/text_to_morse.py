@@ -69,3 +69,29 @@ def text_to_morse(text):
             char_to_add = '#'
         morse_string += char_to_add + " "
     return morse_string
+
+
+def user_menu():
+    '''Provides an interactive text-based menu for the user.'''
+    morse = ''
+    while(True):
+        user_input = str(input("\nQ: Quit\nM: Convert text to Morse Code\nC: Copy Morse Code to clipboard\nEnter an option: ")).upper()
+        if(user_input == "Q"):
+            print("Quitting.")
+            break
+        elif(user_input == "M"):
+            morse = text_to_morse(input("Enter English text to convert to Morse Code:\n"))
+            print(morse)
+        elif(user_input == "C"):
+            if(morse == ''):
+                print("Cannot copy; No Morse Code has been generated yet!")
+            else:
+                print("Copied to clipboard.")
+                pyperclip.copy(morse)
+        else:
+            print("Invalid input. Please try again!")
+    return
+
+
+if __name__ == "__main__":
+    user_menu()
