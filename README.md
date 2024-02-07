@@ -27,7 +27,7 @@ In my free time, I will usually be weightlifting, cooking, gaming, or listening 
 
 I am very open to opportunities, collaborations, or friendly contact. Reach out to me via [Email](mailto:grispinogunnar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/grispinogunnar)
 
-## Projects
+## Projects*
 
 **Data Science:**
 
@@ -37,25 +37,24 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 
 **Web:**
 
-## Skills
+## Skills*
 
-### Programming Languages
+### Programming Languages:
 * Python
 * C++
 * HTML/CSS
 * JavaScript
 
-### Technologies/Frameworks
+### Technologies/Frameworks:
 * Git
 * SQL
-* NoSQL
 * Flask
 
-### Tools
+### Tools:
 * Visual Studio Code
 * PyCharm
-* Trello
-* Microsoft Office Suite
 * GitLab/GitHub
-
-  ### *This is by no means comprehensive!
+* Jupyter Notebooks
+* Microsoft Office Suite
+  
+#### *These are not comprehensive!
