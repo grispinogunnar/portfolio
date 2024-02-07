@@ -38,3 +38,24 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 **Web:**
 
 ## Skills
+
+### Programming Languages
+* Python
+* C++
+* HTML/CSS
+* JavaScript
+
+### Technologies/Frameworks
+* Git
+* SQL
+* NoSQL
+* Flask
+
+### Tools
+* Visual Studio Code
+* PyCharm
+* Trello
+* Microsoft Office Suite
+* GitLab/GitHub
+
+  ### *This is by no means comprehensive!
