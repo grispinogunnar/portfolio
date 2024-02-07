@@ -1,11 +1,15 @@
 # Gunnar's Portfolio
 An in-progress repo for my portfolio projects. Read more to find out about me, my projects, and my skills.
 
+<br>
+
 ## Table of Contents
 
 1. [About Me](#about-me)
 2. [Projects](#projects)
 3. [Skills](#skills)
+
+<br>
 
 ## About Me
 
@@ -28,6 +32,8 @@ In my free time, I will usually be weightlifting, cooking, gaming, or listening 
 
 I am very open to opportunities, collaborations, or friendly contact. Reach out to me via [LinkedIn](https://www.linkedin.com/in/grispinogunnar)!
 
+<br>
+
 ## Projects*
 
 ### Data Science:
@@ -36,6 +42,8 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * [Plaintext to Morse Code Converter](https://github.com/grispinogunnar/portfolio/tree/main/scripting/text_to_morse)
 * [Tic-Tac-Toe](https://github.com/grispinogunnar/portfolio/tree/main/scripting/tic_tac_toe)
 ### Web:
+
+<br>
 
 ## Skills*
 
@@ -61,4 +69,6 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * Jupyter Notebooks
 * Microsoft Office Suite
   
+<br>
+
 #### *These are not comprehensive!
