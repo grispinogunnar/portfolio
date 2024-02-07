@@ -50,6 +50,10 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * SQL
 * Flask
 
+### Certifications:
+* Certified Ethical Hacker (In progress! Test is this semester.)
+* A*S*K Ethics Certified
+* 100 Days of Code: The Complete Python Pro Bootcamp Udemy Certificate
 ### Tools:
 * Visual Studio Code
 * PyCharm
