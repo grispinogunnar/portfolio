@@ -47,7 +47,7 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 
 ### Technologies/Frameworks:
 * Git
-* SQL
+* SQL/NoSQL
 * Flask
 
 ### Certifications:
