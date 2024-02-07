@@ -25,7 +25,7 @@ In my free time, I will usually be weightlifting, cooking, gaming, or listening 
 
 ### Get in Touch
 
-I am very open to opportunities, collaborations, or friendly contact. Reach out to me via [Email](mailto:grispinogunnar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/grispinogunnar)
+I am very open to opportunities, collaborations, or friendly contact. Reach out to me via [Email](mailto:your.grispinogunnar@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/grispinogunnar)
 
 ## Projects
 
