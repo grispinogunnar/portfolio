@@ -1,5 +1,5 @@
 # Gunnar's Portfolio
-An in-progress repo for my portfolio projects. Projects are categorized and listed below; specific information can be found inside of each sub-folder.
+An in-progress repo for my portfolio projects. Read more to find out about me, my projects, and my skills.
 
 ## Table of Contents
 
