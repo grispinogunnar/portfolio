@@ -1,6 +1,5 @@
 # Gunnar's Portfolio
 An in-progress repo for my portfolio projects. Read more to find out about me, my projects, and my skills.
-
 <br>
 
 ## Table of Contents
@@ -8,9 +7,7 @@ An in-progress repo for my portfolio projects. Read more to find out about me, m
 1. [About Me](#about-me)
 2. [Projects](#projects)
 3. [Skills](#skills)
-
 <br>
-
 ## About Me
 
 I am Gunnar Grispino, a senior computer science student at Northwest Missouri State university. I have a passion for learning and growing my skills, and thrive when it comes to developing elegant solutions to complex problems.
@@ -31,9 +28,7 @@ In my free time, I will usually be weightlifting, cooking, gaming, or listening 
 ### Get in Touch
 
 I am very open to opportunities, collaborations, or friendly contact. Reach out to me via [LinkedIn](https://www.linkedin.com/in/grispinogunnar)!
-
 <br>
-
 ## Projects*
 
 ### Data Science:
@@ -42,9 +37,7 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * [Plaintext to Morse Code Converter](https://github.com/grispinogunnar/portfolio/tree/main/scripting/text_to_morse)
 * [Tic-Tac-Toe](https://github.com/grispinogunnar/portfolio/tree/main/scripting/tic_tac_toe)
 ### Web:
-
 <br>
-
 ## Skills*
 
 ### Programming Languages:
@@ -60,7 +53,7 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 
 ### Certifications:
 * Certified Ethical Hacker (In progress! Test is this semester.)
-* A*S*K Ethics Certified
+* A\*S\*K Ethics Certified
 * 100 Days of Code: The Complete Python Pro Bootcamp Udemy Certificate
 ### Tools:
 * Visual Studio Code
@@ -68,7 +61,5 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * GitLab/GitHub
 * Jupyter Notebooks
 * Microsoft Office Suite
-  
 <br>
-
 #### *These are not comprehensive!
