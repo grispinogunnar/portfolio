@@ -14,7 +14,7 @@ I am Gunnar Grispino, a senior computer science student at Northwest Missouri St
 
 ### Background
 
-I am originally from Maryville, Missouri, where I am attending school for my B.S. in computer science. During my studies, I have dveloped a strong foundation in programming and problem solving, which I have been further honing with personal projects and self-directed learning. The huge variety in projects and classes in school have also provided me with the adaptability needed to learn and understand new concepts very efficiently.
+I am originally from Maryville, Missouri, where I am attending school for my B.S. in computer science. During my studies, I have developed a strong foundation in programming and problem solving, which I have been further honing with personal projects and self-directed learning. The huge variety in projects and classes in school have also provided me with the adaptability needed to learn and understand new concepts very efficiently.
 
 ### Experience
 
