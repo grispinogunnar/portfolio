@@ -21,6 +21,8 @@ I am originally from Maryville, Missouri, where I am attending school for my B.S
 I have 4 years of programming experience through school and personal projects.
 I am currently searching for an internship or future employment. I am eager to tackle a new challenge!
 
+This semester, I am heavily focusing on my Python, with a particular focus on machine learning and web mining. I am learning the ins-and-outs of NLPs, handling large amounts of data and making something meaningful out of it.
+
 ### Interests
 
 In my free time, I will usually be weightlifting, cooking, gaming, or listening to a wide range of music.
