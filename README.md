@@ -1,5 +1,5 @@
 # Gunnar's Portfolio
-An in-progress repo for my portfolio projects. Read more to find out about me, my projects, and my skills.
+An in-progress repo for my personal projects. Read more to find out about me, my projects, and my skills.
 <br>
 
 ## Table of Contents
