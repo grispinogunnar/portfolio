@@ -35,9 +35,8 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 
 ### Data Science:
 
-### Scripting:
-* [Plaintext to Morse Code Converter](https://github.com/grispinogunnar/portfolio/tree/main/scripting/text_to_morse)
-* [Tic-Tac-Toe](https://github.com/grispinogunnar/portfolio/tree/main/scripting/tic_tac_toe)
+### Tools:
+* SteamMetrics
 ### Web:
 <br>
 ## Skills*
