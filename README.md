@@ -39,7 +39,7 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * SteamMetrics
 ### Web:
 <br>
-## Skills*
+## Skills\*
 
 ### Programming Languages:
 * Python
@@ -63,4 +63,4 @@ I am very open to opportunities, collaborations, or friendly contact. Reach out 
 * Jupyter Notebooks
 * Microsoft Office Suite
 <br>
-#### *These are not comprehensive!
+#### \*These are not comprehensive!
