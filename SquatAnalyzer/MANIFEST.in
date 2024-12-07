@@ -1,0 +1,2 @@
+include src/gui/styles.qss
+include assets/test_videos/sample_video.mp4

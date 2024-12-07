@@ -1,0 +1,46 @@
+QMainWindow {
+    background-color: #2b2b2b;  /* Dark background */
+    color: #ffffff;            /* White text */
+}
+
+QLabel {
+    color: #ffffff;            /* White text for labels */
+    font-size: 16px;
+}
+
+QLineEdit {
+    background-color: #3c3f41; /* Slightly lighter background for inputs */
+    color: #ffffff;            /* White text */
+    border: 1px solid #5c5c5c;
+    border-radius: 5px;
+    padding: 5px;
+    font-size: 14px;
+}
+
+QPushButton {
+    background-color: #5c8a8a; /* Teal button background */
+    color: #ffffff;            /* White text */
+    border: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    font-size: 14px;
+}
+
+QPushButton:hover {
+    background-color: #4e7a7a; /* Slightly darker teal on hover */
+}
+
+QMenuBar {
+    background-color: #3c3f41; /* Dark menu bar background */
+    color: #ffffff;            /* White text */
+}
+
+QMenu {
+    background-color: #3c3f41; /* Dark menu background */
+    color: #ffffff;            /* White text */
+}
+
+QStatusBar {
+    background-color: #3c3f41; /* Dark status bar background */
+    color: #ffffff;            /* White text */
+}

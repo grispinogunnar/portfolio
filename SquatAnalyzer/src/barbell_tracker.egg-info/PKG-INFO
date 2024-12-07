@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: barbell-tracker
+Version: 1.0
+Summary: A Python-based tool for barbell tracking and squat analysis.
+Author: Gunnar Grispino
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# Barbell Tracker
+
+A Python desktop application for tracking barbells and analyzing squat depth in weightlifting videos.
+
+## Features
+- Real-time barbell tracking.
+- Path visualization for the barbell.
+- Intuitive GUI for video upload and analysis.
+
+## TODO:
+- Add some robust error handling for barbell tracking
+- Work around obscured views (e.g. squatting in a rack that partially obstructs the camera)
+- Fix some GUI bugs
